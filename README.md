@@ -29,7 +29,6 @@ Product information: [LILYGO T5 e-Paper Basic]()
 | Flash | 16 MB |
 | Display bus | 8-bit parallel EPD |
 | Standard display configuration | 960 x 540 |
-| Factory-test display configuration | 1216 x 684 (optional) |
 | I2C devices | AXP2602 battery gauge, XL9555 I/O expander |
 | Storage | TF / SD card through SPI |
 | Wireless | 2.4 GHz Wi-Fi and Bluetooth LE provided by ESP32-S3 |

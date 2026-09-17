@@ -29,7 +29,6 @@ LILYGO T5 e-Paper Basic 是一款基于 ESP32-S3 的大尺寸并口电子纸开�
 | Flash | 16 MB |
 | 屏幕总线 | 8-bit 并口 EPD |
 | 标准屏幕配置 | 960 x 540 |
-| 出厂测试屏幕配置 | 1216 x 684（可选） |
 | I2C 设备 | AXP2602 电量计、XL9555 IO 扩展芯片 |
 | 存储 | 通过 SPI 连接 TF / SD 卡 |
 | 无线功能 | ESP32-S3 提供 2.4 GHz Wi-Fi 和 Bluetooth LE |
