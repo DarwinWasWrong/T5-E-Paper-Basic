@@ -128,6 +128,7 @@ script/    PlatformIO 构建脚本
 | EPD 数据 D0..D7 | GPIO6、14、7、12、9、11、8、10 |
 | EPD XSTL | GPIO13 |
 | EPD SPV / CKV | GPIO17 / GPIO18 |
+| EPD XLE / XCL | GPIO15 / GPIO16 |
 | EPD 电源 / 升压使能 | GPIO45 / GPIO46 |
 | SD MOSI / SCK / MISO / CS | GPIO38 / GPIO39 / GPIO40 / GPIO47 |
 | BOOT 按键 | GPIO0 |

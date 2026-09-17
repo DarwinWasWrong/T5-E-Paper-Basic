@@ -134,6 +134,7 @@ The complete pin map is maintained in [`docs/pinmap_cn.md`](./docs/pinmap_cn.md)
 | EPD data D0..D7 | GPIO6, 14, 7, 12, 9, 11, 8, 10 |
 | EPD XSTL | GPIO13 |
 | EPD SPV / CKV | GPIO17 / GPIO18 |
+| EPD XLE / XCL | GPIO15 / GPIO16 |
 | EPD power / boost enable | GPIO45 / GPIO46 |
 | SD MOSI / SCK / MISO / CS | GPIO38 / GPIO39 / GPIO40 / GPIO47 |
 | BOOT button | GPIO0 |
