@@ -50,8 +50,8 @@
 
 | 功能 | 建议名 | GPIO / 信号 | J6 引脚 | 来源 | 备注 |
 | --- | --- | --- | --- | --- | --- |
-| EPD XLE | `PIN_EPD_XLE` | `XTAL_32K_P` | 11 | 原理图 U9 / J6 | 32K 晶振脚被复用为 EPD 锁存信号 |
-| EPD XCL | `PIN_EPD_XCL` | `XTAL_32K_N` | 10 | 原理图 U9 / J6 | 经 `R53 100R` 串联后输出 |
+| EPD XLE | `PIN_EPD_XLE` | `IO15 (XTAL_32K_P)` | 11 | 原理图 U9 / J6 | 32K 晶振脚被复用为 EPD 锁存信号 |
+| EPD XCL | `PIN_EPD_XCL` | `IO16 (XTAL_32K_N)` | 10 | 原理图 U9 / J6 | 经 `R53 100R` 串联后输出 |
 | EPD SPV | `PIN_EPD_SPV` | `GPIO17` | 37 | 原理图 U9 / J6 | 板级网络 `EPD_SPV` |
 | EPD CKV | `PIN_EPD_CKV` | `GPIO18` | 36 | 原理图 U9 / J6 | 板级网络 `EPD_CKV` |
 | EPD D0 | `PIN_EPD_DB0` | `GPIO6` | 14 | 原理图 U9 / J6 | 8bit 并口数据 |
